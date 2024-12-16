@@ -1,0 +1,2 @@
+#TNN PA-E Training Data K = 10 Random pattern
+1 -1 1 -1 -1 -1 1 1 -1 -1

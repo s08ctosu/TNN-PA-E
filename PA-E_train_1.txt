@@ -1,0 +1,2 @@
+#TNN PA-E Training Data K = 10 Binary 0
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1
